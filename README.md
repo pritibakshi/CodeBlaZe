@@ -1,6 +1,7 @@
 # CodeBlaZe - An Online Code Compilation Platform
-[Watch Demo](https://youtu.be/DqbKi_OigVg?si=AjjQEJsqojTRwnfz)
--
+[Watch Demo](https://youtu.be/DqbKi_OigVg?si=AjjQEJsqojTRwnfz) &#x1F680;
+
+
 
 
 
