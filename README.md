@@ -100,7 +100,7 @@ cd server
 npm start
 ```
 
-6. Start the client
+5. Start the client
 ```
 cd client
 npm start
