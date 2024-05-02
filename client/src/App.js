@@ -15,7 +15,7 @@ function App() {
     // State variables using useState hook for managing component state are used
     const [iconClassName, setIconClassName] = useState('green'); 
     const [userCode, setUserCode] = useState(''); 
-    const [userLang, setUserLang] = useState("python"); 
+    const [userLang, setUserLang] = useState("java"); 
     const [userTheme, setUserTheme] = useState("vs-dark");
     const [fontSize, setFontSize] = useState(20); 
     const [userInput, setUserInput] = useState(""); 
